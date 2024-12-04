@@ -2,7 +2,8 @@
 
 import { TonConnectUIProvider } from "@tonconnect/ui-react"
 
-const manifestUrl = "https://hacktheton.com/tonconnect-manifest.json"
+const manifestUrl =
+  "https://func-escrow-website.vercel.app/tonconnect-manifest.json"
 
 export const TonConnectProvider = ({
   children,
