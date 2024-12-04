@@ -1,4 +1,5 @@
 {
   "url": "https://func-escrow-website.vercel.app",
-  "name": "TON Escrow"
+  "name": "TON Escrow",
+  "iconUrl": "https://func-escrow-website.vercel.app/icon.png"
 }
